@@ -19,3 +19,7 @@ A simple Bash script to automatically check a Linux server for security issues. 
    ```bash
     sudo ./security_check.sh
    ```
+   <img width="1920" height="915" alt="output 2" src="https://github.com/user-attachments/assets/051ad4b2-eaa8-4ee1-8fd8-cb82ccf7d4d0" />
+<img width="1920" height="915" alt="output" src="https://github.com/user-attachments/assets/75330693-eed8-4cde-af73-317e7b859345" />
+
+
