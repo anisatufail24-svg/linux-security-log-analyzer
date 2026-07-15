@@ -14,3 +14,8 @@ A simple Bash script to automatically check a Linux server for security issues. 
 3. Make the script executable:
    ```bash
    chmod +x security_check.sh
+   ```
+    ## Run the script
+   ```bash
+    sudo ./security_check.sh
+   ```
